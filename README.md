@@ -1,4 +1,4 @@
-<img src="https://github.com/RimmaChukhno/assets/blob/main/photo11-18.jpg?raw=true" width="300" height="300">
+<img src="https://github.com/RimmaChukhno/assets/blob/main/ea9004.png?raw=true" width="900" height="500">
 
 - 👋 Hi, I’m @RimmaChukhno
 - 👀 I’m interested in  in open-source development, machine learning, and web technologies.
