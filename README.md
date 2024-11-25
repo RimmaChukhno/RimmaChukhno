@@ -32,6 +32,10 @@ French, Russian, Ukrainian, English technical
 ### My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimmaChukhno&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
+### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RimmaChukhno&layout=compact)
+
+
 ### My GitHub Activity
 ![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RimmaChukhno&theme=react)
 
