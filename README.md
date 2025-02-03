@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @RimmaChukhno
-- 👀 I’m interested in  in open-source development, machine learning, and web technologies.
-- 🌱 I’m currently learning HTML, CSS, Python...
+- 👀 I’m interested in  Développement Logiciel, Jeux Vidéos & Systèmes Immersif
+- 🌱 I’m currently learning HTML, CSS, Python, C++, JavaScript ...
 - 💞️ I’m looking to collaborate on innovative, community-driven open source projects.
 - 📫 How to reach me: e-mail, LinkedIn et insta
 - ⚡ Fun fact:  "I can type faster than I can speak—tested and proven!"
