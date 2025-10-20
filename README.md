@@ -18,6 +18,10 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-Programming-blue?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-Programming-blue?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-Programming-blue?logo=c-sharp&logoColor=white&style=for-the-badge)
+
 
 ## Hobbies
 - Read books
