@@ -6,7 +6,7 @@
 - 📫 How to reach me: e-mail, LinkedIn et insta
 - ⚡ Fun fact:  "I can type faster than I can speak—tested and proven!"
 
-<img src="https://raw.githubusercontent.com/RimmaChukhno/RimmaChukhno/main/giphy.gif" width="400">
+<img src="https://raw.githubusercontent.com/RimmaChukhno/RimmaChukhno/main/giphy.gif" width="300">
 
 <!---
   <img src="https://github.com/RimmaChukhno/assets/blob/main/ea9004.png?raw=true" width="900" height="500">
